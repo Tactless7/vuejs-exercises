@@ -10,7 +10,7 @@ Attention: N'utiliser qu'une variable pour le nom et le prénom
 
 ## Binding
 1. Indiquer si l'utilisateur est premium en utilisant les classes dynamiques
-2. Ajouter une image différent pour chaque user grace au site [Lorem Picsum](https://picsum.photos/) et l'ajouter à la carte du membre
+2. Ajouter une image différente pour chaque user grace au site [Lorem Picsum](https://picsum.photos/) et l'ajouter à la carte du membre
 
 ## Events & watcher
 1. Ajouter un bouton permettant de rendre premium ou non les utilisateurs 

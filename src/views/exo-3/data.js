@@ -31,4 +31,20 @@ export const users = [
     password: 'securePassword',
     premium: false,
   },
+  {
+    id: 5,
+    firstname: 'Ulrich',
+    lastname: 'Steiner',
+    email: 'ulrich.steiner@gmail.bzh',
+    password: 'securePassword',
+    premium: false,
+  },
+  {
+    id: 6,
+    firstname: 'Ulrich',
+    lastname: 'Steiner',
+    email: 'ulrich.steiner@gmail.bzh',
+    password: 'securePassword',
+    premium: false,
+  },
 ];
