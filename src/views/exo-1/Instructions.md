@@ -5,8 +5,8 @@
 1. Ajouter une variable `firstname` de type string à la data du composant `Exercise1.vue`
 2. Afficher cette variable dans le template à la place du mot "inconnu.e"
 3. Ajouter une nouvelle variable `lastname`
-4. Trouver deux manières d'afficher ces deux variables l'une à côté de l'autre 
-Ex : Je veux afficher `Bonjour Anne Trotreau`
+4. Trouver deux manières d'afficher ces deux variables l'une à côté de l'autre
+   Ex : Je veux afficher `Bonjour Anne Trotreau`
 
 ## Data Binding
 
