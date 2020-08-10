@@ -1,11 +1,11 @@
-export const users = [
+export const membres = [
   {
     id: 1,
     firstname: "John",
     lastname: "Doe",
     email: "john.doe@gmail.bzh",
     password: "123456",
-    premium: true
+    premium: true,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const users = [
     lastname: "Smith",
     email: "jane.smith@gmail.bzh",
     password: "password",
-    premium: false
+    premium: false,
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const users = [
     lastname: "Trotreau",
     email: "anne.trotreau@gmail.bzh",
     password: "1234567",
-    premium: true
+    premium: true,
   },
   {
     id: 4,
@@ -29,6 +29,6 @@ export const users = [
     lastname: "Steiner",
     email: "ulrich.steiner@gmail.bzh",
     password: "securePassword",
-    premium: false
-  }
+    premium: false,
+  },
 ];
